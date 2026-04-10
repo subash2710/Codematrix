@@ -1,0 +1,5 @@
+{
+  "name": "Code Matrix - SOC Automation",
+  "description": "An automated security incident response platform that correlates SIEM, EDR, and IDS alerts using AI to generate comprehensive investigation reports.",
+  "requestFramePermissions": []
+}
